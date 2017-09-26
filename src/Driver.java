@@ -1,10 +1,3 @@
-/**
- * File Name:          Driver.java
- * Programmer:         Jared Wines
- * Date Last Modified: Apr 22, 2015
- */
-package edu.miracosta.cs113.final_project;
-
 import java.io.FileNotFoundException;
 
 public class Driver

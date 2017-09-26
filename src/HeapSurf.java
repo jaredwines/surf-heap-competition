@@ -1,10 +1,3 @@
-/**
- * File Name:          HeapSurf.java
- * Programmer:         Jared Wines
- * Date Last Modified: Apr 22, 2015
- */
-package edu.miracosta.cs113.final_project;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
