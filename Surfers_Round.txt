@@ -1,3 +1,0 @@
-Surfers round line-up:
-Round: 1     Surfer2(150) vs. Surfer4(75)
-Round: 2     Surfer1(100) vs. Surfer3(125)
