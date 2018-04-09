@@ -23,4 +23,4 @@ Surfer4
 
 ## Screenshot of Surf Heap Competition
 
-![alt text](https://drive.google.com/file/d/1L4Pn5kEyP0R_aPcoH-j3HkSHME52XeQS/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1L4Pn5kEyP0R_aPcoH-j3HkSHME52XeQS/preview?rm=minimal)
