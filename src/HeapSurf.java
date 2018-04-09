@@ -38,7 +38,7 @@ public class HeapSurf
      */
     public int countFileLine() throws FileNotFoundException
     {
-        Scanner file = new Scanner(new File("surfers.txt"));
+        Scanner file = new Scanner(new File("C:\\Users\\surfe\\GitHub\\surf-heap-competition\\src\\surfers.txt"));
         int numLines = 0;
         while (file.hasNext() || file.hasNextInt())
         {
@@ -115,7 +115,7 @@ public class HeapSurf
      */
     public void readFile() throws FileNotFoundException
     {
-        Scanner file = new Scanner(new File("surfers.txt"));
+        Scanner file = new Scanner(new File("C:\\Users\\surfe\\GitHub\\surf-heap-competition\\src\\surfers.txt"));
         
         // Demo Only
         System.out.println("***Orginal Order***");

@@ -1,0 +1,8 @@
+Surfer1
+100
+Surfer2
+150
+Surfer3
+125
+Surfer4
+75
